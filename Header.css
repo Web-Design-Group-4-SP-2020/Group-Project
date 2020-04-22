@@ -1,0 +1,16 @@
+Element 1: 
+  <!-- We found out that the change of adjusting the font and header size is not possible, since the header of 'Council on
+    Foreign Relations' is a logo. However we decided to change the sizes of the links within the header tab and to add in
+    an adjustment of the size of the logo's img tag. -->
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+.text-center {
+text-align: center;
+}
+
+h1 {
+ font-size: "24px";
+ color:  rgb(201, 163, 22);
+ }
